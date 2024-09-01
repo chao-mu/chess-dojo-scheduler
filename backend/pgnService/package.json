@@ -2,7 +2,7 @@
     "name": "chess-dojo-pgn-service",
     "main": "handler.js",
     "dependencies": {
-        "@aws-sdk/client-dynamodb": "^3.436.0",
+        "@aws-sdk/client-dynamodb": "^3.637.0",
         "@aws-sdk/util-dynamodb": "^3.436.0",
         "@jackstenglein/chess": "^1.0.57",
         "deep-equal": "^2.2.3",
