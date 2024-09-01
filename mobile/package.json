@@ -14,7 +14,7 @@
     "@react-native-community/netinfo": "9.3.10",
     "@react-navigation/drawer": "^6.6.6",
     "amazon-cognito-identity-js": "^6.3.6",
-    "aws-amplify": "^5.3.11",
+    "aws-amplify": "^5.3.21",
     "axios": "^1.6.0",
     "expo": "~49.0.15",
     "expo-constants": "~14.4.2",
